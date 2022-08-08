@@ -15,7 +15,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/imantung/mario v0.9.1-0.20211124221804-dc993f6091b9
 	github.com/jackc/pgconn v1.12.1
-	github.com/jackc/pgtype v1.11.0
+	github.com/jackc/pgtype v1.12.0
 	github.com/jackc/pgx/v4 v4.16.1
 	github.com/labstack/echo/v4 v4.7.2
 	github.com/labstack/gommon v0.3.1
