@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.repository == 'letsblockit/letsblockit'
     steps:
-    - uses: actions/delete-package-versions@v4
+    - uses: actions/delete-package-versions@v5
       with:
         owner: letsblockit
         package-name: server-dev
